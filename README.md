@@ -6,7 +6,7 @@ I am a software developer in Brazil.
 
 ----
 
-I mostly code in **Python** these days, and I'm learning **Typescript**. 
+I mostly code in **Java** these days, but for now I not making any project. 
 
 Here's some of my projects:
 
