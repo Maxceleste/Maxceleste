@@ -10,18 +10,19 @@ I mostly code in **Java** these days, but for now I not making any project.
 
 Here's some of my projects:
 
-- [Pokémon Team](https://github.com/Maxceleste/pkmteam)
+- [Conway's game of life in Java](https://github.com/Maxceleste/mini-game-of-life-java)
+- [Battle Simulator for a tabletop RPG (in progress)](https://github.com/Maxceleste/OPBattleSimulator)
 - [Cadastro de endereços](https://github.com/Maxceleste/cadastro-enderecos)
 - [Instagram login clone](https://github.com/Maxceleste/instagram-login-clone)
-- [Terminal snake game](https://github.com/Maxceleste/terminal-snake-game)
+
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- Java
+- Python
+- Git
+- SQL
+- HTML/CSS
 
 ## Contact-me
 
