@@ -11,9 +11,9 @@ I mostly code in **Java** these days, but for now I not making any project.
 Here's some of my projects:
 
 - [Conway's game of life in Java](https://github.com/Maxceleste/mini-game-of-life-java)
-- [Battle Simulator for a tabletop RPG (in progress)](https://github.com/Maxceleste/OPBattleSimulator)
-- [Cadastro de endereços](https://github.com/Maxceleste/cadastro-enderecos)
+- [Cadastro de endereços feito com Django](https://github.com/Maxceleste/cadastro-enderecos)
 - [Instagram login clone](https://github.com/Maxceleste/instagram-login-clone)
+- [Battle Simulator for a tabletop RPG (in progress)](https://github.com/Maxceleste/OPBattleSimulator)
 
 
 ## Technologies
