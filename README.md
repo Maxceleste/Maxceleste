@@ -13,7 +13,7 @@ Here's some of my projects:
 - [Conway's game of life in Java](https://github.com/Maxceleste/mini-game-of-life-java)
 - [Cadastro de endereços feito com Django](https://github.com/Maxceleste/cadastro-enderecos)
 - [Instagram login clone](https://github.com/Maxceleste/instagram-login-clone)
-- [Battle Simulator for a tabletop RPG (in progress)](https://github.com/Maxceleste/OPBattleSimulator)
+- [Pong game in Java](https://github.com/Maxceleste/java-pong)
 
 
 ## Technologies
