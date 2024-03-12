@@ -1,34 +1,29 @@
-# Hi, My name is Max Paulo :wave:
+# Hi there! 👋 I'm Max Paulo, a passionate Software Developer from Brazil.
 
-I am a software developer in Brazil.
+I enjoy crafting clean and efficient code to solve problems and bring ideas to life. Currently diving deep into the world of **Java** development.
 
-![The best Pokémon generation art: Emmerald](https://steamuserimages-a.akamaihd.net/ugc/1469813569889756022/561B0CA3064BBE81161027E425B0798EF7A01317/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true "The best Pokémon Generation")
+## :computer: Technologies & Tools
 
-----
+- **Languages:** Java, Python
+- **Version Control:** Git
+- **Databases:** SQL
+- **Web Technologies:** HTML/CSS
 
-I mostly code in **Java** these days, but for now I not making any project. 
+## 🚀 Projects
 
-Here's some of my projects:
+- [Dijkstra and Weighted Graphs in Java](https://github.com/Maxceleste/Dijkstra-algorithm)
+- [Conway's Game of Life in Java](https://github.com/Maxceleste/mini-game-of-life-java)
+- [Address Book built with Django](https://github.com/Maxceleste/cadastro-enderecos)
+- [Instagram Login Clone](https://github.com/Maxceleste/instagram-login-clone)
+- [Pong Game in Java](https://github.com/Maxceleste/java-pong)
 
-- [Conway's game of life in Java](https://github.com/Maxceleste/mini-game-of-life-java)
-- [Cadastro de endereços feito com Django](https://github.com/Maxceleste/cadastro-enderecos)
-- [Instagram login clone](https://github.com/Maxceleste/instagram-login-clone)
-- [Pong game in Java](https://github.com/Maxceleste/java-pong)
+Feel free to explore and provide feedback!
 
-
-## Technologies
-
-- Java
-- Python
-- Git
-- SQL
-- HTML/CSS
-
-## Contact-me
+## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/maxpauloteixeira/)
-- E-mail: maxpauloteixeira@gmail.com
+- **E-mail:** maxpauloteixeira@gmail.com
 
-------
+## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxceleste)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxceleste&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
